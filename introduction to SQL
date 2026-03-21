@@ -1,0 +1,45 @@
+Chapter 1: Introduction to Database & SQL
+
+* What is a Database?
+A database is an organized collection of data that is stored electronically and can be accessed, managed, and updated efficiently.
+
+* Real-life examples:
+
+School management system (student records)
+Banking system (accounts, transactions)
+E-commerce (products, users, orders)
+
+* What is DBMS?
+A Database Management System (DBMS) is software that allows users to create, manage, and manipulate databases.
+
+* Features of DBMS:
+Data storage
+Data retrieval
+Data security
+Data consistency
+Multi-user access
+* Examples:
+MySQL
+Oracle
+PostgreSQL
+SQL Server
+
+* What is SQL?
+SQL (Structured Query Language) is a standard language used to communicate with relational databases.
+
+* Uses of SQL:
+Create databases and tables
+Insert data
+Update data
+Delete data
+Query data
+
+Developed by: Oracle
+ Type: Relational (Table-based)
+
+* Features of MySQL
+Open-source & free
+Fast and reliable
+Supports large databases
+Multi-user support
+Works with languages like Python, Java, PHP
