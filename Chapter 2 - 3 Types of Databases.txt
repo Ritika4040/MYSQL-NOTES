@@ -1,0 +1,41 @@
+Chapter 2: Types of Databases
+
+* 1. Relational Database (RDBMS)
+Data stored in tables (rows & columns)
+Uses SQL
+Relationships using keys
+
+ Example: MySQL
+
+* 2. NoSQL Database
+Non-tabular format
+Flexible schema
+
+ Types:
+Document-based (MongoDB)
+Key-value (Redis)
+Graph (Neo4j)
+
+* 3. Hierarchical Database
+Tree structure (parent-child)
+
+* 4. Network Database
+Complex relationships (many-to-many)
+
+ Chapter 3: MySQL Installation (Theory)
+
+* Steps:
+Download MySQL Server
+Install MySQL Workbench
+Configure root password
+Connect to localhost
+
+* Default Settings:
+Host: localhost
+Port: 3306
+Username → root
+
+* Components:
+MySQL Server → stores data
+MySQL Workbench → GUI tool
+MySQL Shell → command-line
